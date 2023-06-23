@@ -26,8 +26,6 @@ Skills: Next.js / REACT / JavaScript / Express.js / HTML / CSS / Tailwinds / Boo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahangir20bd)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zahangir20bd&show_icons=true&count_private=true)  
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zahangir20bd)  
 
 ![](https://komarev.com/ghpvc/?username=zahangir20bd)
@@ -35,4 +33,6 @@ Skills: Next.js / REACT / JavaScript / Express.js / HTML / CSS / Tailwinds / Boo
 ![GitHub metrics](https://metrics.lecoq.io/zahangir20bd)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=zahangir20bd)  
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/zahangir20bd/github-readme-activity-graph)
 
