@@ -30,8 +30,9 @@ Skills: Next.js / REACT / JavaScript / Express.js / HTML / CSS / Tailwinds / Boo
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zahangir20bd)  
 
+![](https://komarev.com/ghpvc/?username=zahangir20bd)
+
 ![GitHub metrics](https://metrics.lecoq.io/zahangir20bd)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=zahangir20bd)  
 
-![](https://komarev.com/ghpvc/?username=zahangir20bd)
