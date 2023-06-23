@@ -2,7 +2,7 @@
 ## Hi, I'm Zahangir Alam
 
 💻 I am Web Developer <br/>
-⌨️ Love to Coding
+⌨️ Love to Coding <br/>
 ![](https://komarev.com/ghpvc/?username=zahangir20bd)
 
 
