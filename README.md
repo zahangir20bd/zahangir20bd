@@ -3,6 +3,7 @@
 
 💻 I am Web Developer <br/>
 ⌨️ Love to Coding
+![](https://komarev.com/ghpvc/?username=zahangir20bd)
 
 
 I am a Front-End Web Developer who is passionate about building dynamic and interactive websites. My proficiency in HTML, CSS, and JavaScript allows me to create visually appealing and responsive user interfaces.
@@ -13,14 +14,22 @@ Although my focus has primarily been on the front end, I have a basic understand
 
 Furthermore, I have experience working with databases, particularly MongoDB, and have a fundamental understanding of designing and implementing data models for web applications.
 
+### 🎓 Skills:
+✅ React <br/>
+✅ Next.js <br/>
+✅ JavaScript <br/>
+✅ Express.js <br/>
+✅ HTML <br/>
+✅ CSS <br/>
+✅ Tailwinds <br/>
+✅ Bootstrap <br/>
+✅ MongoDB <br/>
 Skills: Next.js / REACT / JavaScript / Express.js / HTML / CSS / Tailwinds / Bootstrap /
 
 - 🔭 I’m currently working on MERN Stack Web Applications 
 - 🌱 I’m currently learning Next.js and Node.js 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: Email, LinkedIn, Facebook, Twitter, WhatsApp, Telegram
-
-![](https://komarev.com/ghpvc/?username=zahangir20bd)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zahangir20bd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zahangir20bds/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/zahangir20bd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/zahangir20bd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/zahangir20bd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/oddhyan4982)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](+8801611391706)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](+8801611391706)  
