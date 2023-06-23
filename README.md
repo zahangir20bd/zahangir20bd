@@ -1,5 +1,5 @@
 ![Web Developer](https://i.ibb.co/NsZ05G0/20230312-174040.jpg)
-### Hi there 👋, I'm Zahangir Alam
+## Hi, I'm Zahangir Alam
 #### Web Developer
 
 I am a Front-End Web Developer who is passionate about building dynamic and interactive websites. My proficiency in HTML, CSS, and JavaScript allows me to create visually appealing and responsive user interfaces.
