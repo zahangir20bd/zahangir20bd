@@ -24,7 +24,9 @@ Skills: Next.js / REACT / JavaScript / Express.js / HTML / CSS / Tailwinds / Boo
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zahangir20bd)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahangir20bd)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zahangir20bd)](https://github.com/zahangir20bd/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahangir20bd)](https://github.com/zahangir20bd/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zahangir20bd)  
 
